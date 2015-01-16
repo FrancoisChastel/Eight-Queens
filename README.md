@@ -2,7 +2,7 @@
 Solver of N-Queens or Eight Queens problem using JTree.
 It's a full functionnal program with a relative simple algorithm imagine by us based on multiple project.
 
-# Language
+# Languages
 Java
 
 # Concepts
