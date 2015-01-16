@@ -6,7 +6,7 @@ It's a full functionnal program with a relative simple algorithm imagine by us b
 Java
 
 # Concepts
-This program use BackTracking concept to solve this problem
+This program use BackTracking and a full recursif algorithm concept to solve this problem
 
 #Contact
 If you want to use or to have more informations contact us: 
